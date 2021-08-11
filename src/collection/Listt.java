@@ -11,7 +11,7 @@ public class Listt {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+		//adding some comments for git
 		
 		List<String>al=new ArrayList<>();
 		//al=Arrays.asList("2","3");
