@@ -31,6 +31,12 @@ public class Charduplict {
 			}
 		}
 		
+		
+		for(Map.Entry<Character, Integer>ho:hm.entrySet())
+		{
+			System.out.println(ho.getKey()+"ddd"+ho.getValue());
+		}
+		
 
 	}
 
